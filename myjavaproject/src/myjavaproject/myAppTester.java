@@ -17,6 +17,12 @@ public class myAppTester {
 		System.out.println("my name is"+n+"my age is"+v);
 		
 	}
+         public static void change()
+{
+
+
+
+}
 
 
 public static void displayname(String h)
